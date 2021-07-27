@@ -1,1 +1,1 @@
-for example of EAPI a made EAPI for GitHub.
+for example of EAPI I made EAPI and publishing EAPI for GitHub.
